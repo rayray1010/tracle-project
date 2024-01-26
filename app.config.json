@@ -1,0 +1,10 @@
+{
+  "maxConnections": 10000,
+  "maintenanceMode": false,
+  "supportedLocales": [
+    "en-US",
+    "fr-FR",
+    "es-ES"
+  ],
+  "loggingLevel": "info"
+}
